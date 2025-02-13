@@ -27,6 +27,25 @@ A simple implementation of the classic game against the computer.
 - The game tracks wins, losses, and draws.
 
 ## How to Run
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/rrugile/simple-python-projects.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd simple-python-projects
+   ```
+3. Run any script using Python:
+   ```bash
+   python3 number_guesser.py
+   ```
+   or  
+   ```bash
+   python3 quiz.py
+   ```
+   or  
+   ```bash
+   python3 rock_paper_scissors.py
+   ```
+
